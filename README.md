@@ -154,7 +154,7 @@ Get PayPilot running in under 5 minutes. You need **Python 3.12+**, **Node.js 18
 ### 1. Clone and configure
 
 ```powershell
-git clone https://github.com/deepak-158/PayPilot.git
+git clone https://github.com/sneha752/PayPilot.git
 cd PayPilot
 
 # Backend credentials
