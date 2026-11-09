@@ -1,0 +1,10 @@
+fastapi==0.115.5
+starlette==0.41.3
+uvicorn[standard]==0.32.1
+httpx==0.28.0
+python-dotenv==1.0.1
+google-genai==2.28.0        # default AI provider (Gemini)
+anthropic==1.11.0           # optional alternate AI provider (Claude); not required for default path
+
+# Dev/test only
+pytest==8.3.4
